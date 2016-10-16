@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Projects\Apress\FooterLinksSchema\FooterLinksSchema\bin\Debug\FooterLinksSchema.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Projects\Apress\FooterLinksSchema\FooterLinksSchema\bin\Debug\FooterLinksSchema.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Projects\Apress\FooterLinksSchema\FooterLinksSchema\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Projects\Apress\FooterLinksSchema\FooterLinksSchema\obj\Debug\FooterLinksSchema.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Projects\Apress\FooterLinksSchema\FooterLinksSchema\obj\Debug\FooterLinksSchema.pdb
+C:\Projects\Apress\FooterLinksSchema\FooterLinksSchema\bin\Debug\FooterLinksSchema.dll
+C:\Projects\Apress\FooterLinksSchema\FooterLinksSchema\bin\Debug\FooterLinksSchema.pdb
+C:\Projects\Apress\FooterLinksSchema\FooterLinksSchema\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Apress\FooterLinksSchema\FooterLinksSchema\obj\Debug\FooterLinksSchema.dll
+C:\Projects\Apress\FooterLinksSchema\FooterLinksSchema\obj\Debug\FooterLinksSchema.pdb
+C:\Projects\Apress\FooterLinksSchema\bin\Debug\FooterLinksSchema.dll
+C:\Projects\Apress\FooterLinksSchema\bin\Debug\FooterLinksSchema.pdb
+C:\Projects\Apress\FooterLinksSchema\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Apress\FooterLinksSchema\obj\Debug\FooterLinksSchema.dll
+C:\Projects\Apress\FooterLinksSchema\obj\Debug\FooterLinksSchema.pdb

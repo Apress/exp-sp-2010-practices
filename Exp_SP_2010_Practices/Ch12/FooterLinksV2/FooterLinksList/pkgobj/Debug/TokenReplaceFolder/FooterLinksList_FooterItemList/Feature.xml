@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Footer Item List" Creator="Apress" Description="This feature will define and create a list for footer items." Id="aaaef021-32c2-4d98-9bf0-178b183eabf3" ImageUrl="Apress/whatisthis.jpg" ReceiverAssembly="FooterLinksList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fb9b0d6fb3385040" ReceiverClass="FooterLinksList.Features.FooterItemList.FooterItemListEventReceiver" Scope="Web" Version="1.1.0.0">
+  <UpgradeActions ReceiverAssembly="FooterLinksList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fb9b0d6fb3385040" ReceiverClass="FooterLinksList.Features.FooterItemList.FooterItemListEventReceiver">
+    <VersionRange BeginVersion="1.0.0.0" EndVersion="1.1.0.0">
+      <CustomUpgradeAction Name="SetIsActiveColumn"></CustomUpgradeAction>
+    </VersionRange>
+  </UpgradeActions>
+  <ActivationDependencies>
+    <ActivationDependency FeatureDescription="This feature defines the site columns and content types for the footer links list." FeatureId="fdcb05db-952a-426a-ba77-ee40d632fa49" FeatureTitle="Footer Links Schema" />
+  </ActivationDependencies>
+  <ElementManifests>
+    <ElementManifest Location="Footer Item\Elements.xml" />
+    <ElementManifest Location="FooterItem\Elements.xml" />
+    <ElementFile Location="FooterItem\Schema.xml" />
+  </ElementManifests>
+</Feature>

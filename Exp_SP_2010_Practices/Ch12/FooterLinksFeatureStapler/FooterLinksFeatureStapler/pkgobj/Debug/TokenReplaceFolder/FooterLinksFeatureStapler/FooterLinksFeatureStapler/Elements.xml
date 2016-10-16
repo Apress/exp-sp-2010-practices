@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- We are stapling the footer link features -->
+  <!-- to the Team Site definition (STS#0)      -->
+
+  <!-- Footer Links Schema Feature      -->
+  <FeatureSiteTemplateAssociation Id="fdcb05db-952a-426a-ba77-ee40d632fa49" TemplateName="STS#0" />
+  <!-- Footer Links List Feature      -->
+  <FeatureSiteTemplateAssociation Id="aaaef021-32c2-4d98-9bf0-178b183eabf3" TemplateName="STS#0" />
+  <!-- Footer Links Web Part Feature      -->
+  <FeatureSiteTemplateAssociation Id="4e8264e8-3b6d-4e9c-8376-f0f338ad63f5" TemplateName="STS#0" />
+</Elements>

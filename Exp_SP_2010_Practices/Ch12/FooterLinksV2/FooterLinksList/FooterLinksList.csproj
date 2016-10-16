@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7F10AEB5-2F2E-48AB-9C3B-358FA4AF00EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FooterLinksList</RootNamespace>
+    <AssemblyName>FooterLinksList</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>ApressKey.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Features\FooterItemList\FooterItemList.EventReceiver.cs">
+      <DependentUpon>FooterItemList.feature</DependentUpon>
+    </Compile>
+    <Compile Include="WebParts\Footer\Footer.cs" />
+    <Compile Include="WebParts\Footer\FooterUserControl.ascx.cs">
+      <DependentUpon>FooterUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebParts\Footer\FooterUserControl.ascx.designer.cs">
+      <DependentUpon>FooterUserControl.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ApressKey.snk" />
+    <None Include="Features\FooterWebPart\FooterWebPart.feature">
+      <FeatureId>{1cc37d04-d5ed-468e-9aba-56d2640c5060}</FeatureId>
+    </None>
+    <None Include="Features\FooterItemList\FooterItemList.feature">
+      <FeatureId>{fd109845-1da9-4937-9e82-d3f65eadd66b}</FeatureId>
+    </None>
+    <None Include="ListDefinitions\FooterItem\Footer Item\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{2994876c-ab92-48e2-97c7-5b0ee38cfab9}</SharePointProjectItemId>
+    </None>
+    <None Include="ListDefinitions\FooterItem\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{5bd56739-efce-4a25-903b-e82c2c71a864}</SharePointProjectItemId>
+    </None>
+    <None Include="WebParts\Footer\Footer.webpart" />
+    <None Include="WebParts\Footer\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{4bcddf29-4148-4527-accd-e9529ca9c6f7}</SharePointProjectItemId>
+    </None>
+    <None Include="Images\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{89400c11-7149-4dd7-96a0-7c94ee88b6cf}</SharePointProjectItemId>
+    </None>
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{d4931f7e-1b67-44f3-80a5-d7c7ebab122e}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{22faee78-91a0-42ea-a9ea-891aded6c139}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Features\FooterWebPart\FooterWebPart.Template.xml">
+      <DependentUpon>FooterWebPart.feature</DependentUpon>
+    </Content>
+    <Content Include="Features\FooterItemList\FooterItemList.Template.xml">
+      <DependentUpon>FooterItemList.feature</DependentUpon>
+    </Content>
+    <Content Include="Layouts\Apress\css\Footer.css" />
+    <Content Include="ListDefinitions\FooterItem\Elements.xml" />
+    <Content Include="ListDefinitions\FooterItem\Footer Item\Elements.xml" />
+    <Content Include="ListDefinitions\FooterItem\Schema.xml" />
+    <Content Include="WebParts\Footer\Elements.xml" />
+    <Content Include="WebParts\Footer\FooterUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Images\Apress\whatisthis.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

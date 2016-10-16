@@ -1,0 +1,19 @@
+﻿<local:MainViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Apress.SharePoint.WP7.Personal.ViewModels" >
+    
+    <local:MainViewModel.Colleagues>
+        <local:ColleagueViewModel AccountName="contoso\willa" FullName="Willa Shepherd" PersonalUrl="http://me/personal/willa" />
+        <local:ColleagueViewModel AccountName="contoso\ruby" FullName="Ruby McDermott" PersonalUrl="http://me/personal/ruby" />
+        <local:ColleagueViewModel AccountName="contoso\kobe" FullName="Kobe Wilson" PersonalUrl="http://me/personal/kobe" />
+        <local:ColleagueViewModel AccountName="contoso\danj" FullName="Dan Jump" PersonalUrl="http://me/personal/danj" />
+        <local:ColleagueViewModel AccountName="contoso\adamb" FullName="Adam Barr" PersonalUrl="http://me/personal/adamb" />
+        <local:ColleagueViewModel AccountName="contoso\frankm" FullName="Frank Martinez" PersonalUrl="http://me/personal/frankm" />
+        <local:ColleagueViewModel AccountName="contoso\amya" FullName="Amy Adams" PersonalUrl="http://me/personal/amya" />
+        <local:ColleagueViewModel AccountName="contoso\tonip" FullName="Toni Poe" PersonalUrl="http://me/personal/tonip" />
+    </local:MainViewModel.Colleagues>
+    <local:MainViewModel.MyProfile>
+        <local:MyProfileViewModel FullName="Dan Jump" Title="Chief Executive Officer" PictureUrl="../Images/person_96.png" AboutMe="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pulvinar neque et dolor fermentum vel pellentesque metus porttitor. Maecenas est est, varius a gravida lobortis, posuere vestibulum purus. Praesent rhoncus, purus sit amet dignissim placerat, leo lorem porttitor velit, at vestibulum lacus velit sit amet diam. In semper posuere sapien ut suscipit. Nunc sed nibh felis. Cras dignissim eleifend dolor, non lobortis lectus malesuada id. Etiam ac purus quis elit pellentesque iaculis ac at lectus. Proin sem purus, scelerisque a sollicitudin at, consequat in ante. Donec hendrerit lorem sit amet nibh elementum eget gravida metus condimentum. Donec eleifend velit sit amet risus ultrices consectetur. Nullam sit amet odio turpis, ut venenatis massa. Mauris cursus lobortis lorem in posuere. Etiam velit mauris, auctor eget facilisis nec, luctus ac tortor. Donec blandit, ante ut malesuada accumsan, lectus sem mollis sem, at lobortis sem orci vehicula ipsum. Nullam non egestas eros. Proin volutpat nunc eget quam placerat eu blandit eros pulvinar."/>
+    </local:MainViewModel.MyProfile>
+</local:MainViewModel>

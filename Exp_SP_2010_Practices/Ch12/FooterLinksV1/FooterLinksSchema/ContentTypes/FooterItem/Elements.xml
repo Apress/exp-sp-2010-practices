@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Item (0x01) -->
+  <ContentType ID="0x0100DBF7478EFA254B269A8B876737CF8324"
+               Name="Footer Link"
+               Group="Apress Content Types"
+               Description="Create a new footer link item"
+               Inherits="TRUE"
+               Version="0">
+    <FieldRefs>
+      <FieldRef ID="{c29e077d-f466-4d8e-8bbe-72b66c5f205c}" Name="URL" Required="TRUE"/>
+      <FieldRef ID="{5747E8F7-9DFA-477C-9212-BF854B93396A}" Name="SortOrder" Required="TRUE" />
+    </FieldRefs>
+  </ContentType>
+</Elements>

@@ -1,0 +1,15 @@
+C:\Projects\Apress\FooterLinksList\FooterLinksList\bin\Debug\FooterLinksList.dll
+C:\Projects\Apress\FooterLinksList\FooterLinksList\bin\Debug\FooterLinksList.pdb
+C:\Projects\Apress\FooterLinksList\FooterLinksList\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Apress\FooterLinksList\FooterLinksList\obj\Debug\FooterLinksList.dll
+C:\Projects\Apress\FooterLinksList\FooterLinksList\obj\Debug\FooterLinksList.pdb
+C:\Projects\Apress\FooterLinksList\bin\Debug\FooterLinksList.dll
+C:\Projects\Apress\FooterLinksList\bin\Debug\FooterLinksList.pdb
+C:\Projects\Apress\FooterLinksList\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Apress\FooterLinksList\obj\Debug\FooterLinksList.dll
+C:\Projects\Apress\FooterLinksList\obj\Debug\FooterLinksList.pdb
+C:\Projects\Apress\FooterLinksV2\FooterLinksList\bin\Debug\FooterLinksList.dll
+C:\Projects\Apress\FooterLinksV2\FooterLinksList\bin\Debug\FooterLinksList.pdb
+C:\Projects\Apress\FooterLinksV2\FooterLinksList\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Apress\FooterLinksV2\FooterLinksList\obj\Debug\FooterLinksList.dll
+C:\Projects\Apress\FooterLinksV2\FooterLinksList\obj\Debug\FooterLinksList.pdb

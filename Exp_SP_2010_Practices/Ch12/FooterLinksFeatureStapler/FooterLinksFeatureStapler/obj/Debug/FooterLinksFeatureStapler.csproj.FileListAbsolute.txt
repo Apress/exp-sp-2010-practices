@@ -1,0 +1,10 @@
+C:\Projects\Apress\FooterLinksV1\FooterLinksFeatureStapler\bin\Debug\FooterLinksFeatureStapler.dll
+C:\Projects\Apress\FooterLinksV1\FooterLinksFeatureStapler\bin\Debug\FooterLinksFeatureStapler.pdb
+C:\Projects\Apress\FooterLinksV1\FooterLinksFeatureStapler\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Apress\FooterLinksV1\FooterLinksFeatureStapler\obj\Debug\FooterLinksFeatureStapler.dll
+C:\Projects\Apress\FooterLinksV1\FooterLinksFeatureStapler\obj\Debug\FooterLinksFeatureStapler.pdb
+C:\Projects\Apress\FooterLinksFeatureStapler\FooterLinksFeatureStapler\bin\Debug\FooterLinksFeatureStapler.dll
+C:\Projects\Apress\FooterLinksFeatureStapler\FooterLinksFeatureStapler\bin\Debug\FooterLinksFeatureStapler.pdb
+C:\Projects\Apress\FooterLinksFeatureStapler\FooterLinksFeatureStapler\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Apress\FooterLinksFeatureStapler\FooterLinksFeatureStapler\obj\Debug\FooterLinksFeatureStapler.dll
+C:\Projects\Apress\FooterLinksFeatureStapler\FooterLinksFeatureStapler\obj\Debug\FooterLinksFeatureStapler.pdb

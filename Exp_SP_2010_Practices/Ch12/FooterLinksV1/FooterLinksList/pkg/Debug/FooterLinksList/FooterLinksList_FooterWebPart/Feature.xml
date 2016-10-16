@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Footer Web Part" Description="This feature provides a web part that displays items from the Footer Links list." Id="4e8264e8-3b6d-4e9c-8376-f0f338ad63f5" ImageUrl="Apress/whatisthis.jpg" Scope="Site" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="Footer\Elements.xml" />
+    <ElementFile Location="Footer\Footer.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Footer Links Schema" Creator="Apress" Description="This feature defines the site columns and content types for the footer links list." Id="fdcb05db-952a-426a-ba77-ee40d632fa49" ImageUrl="Apress/whatisthis.jpg" Scope="Site" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="FooterColumns\Elements.xml" />
+    <ElementManifest Location="FooterItem\Elements.xml" />
+  </ElementManifests>
+</Feature>

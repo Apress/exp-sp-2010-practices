@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field ID="{BB8EB2D5-3A68-4607-88F4-8338DACBD8E4}"
+         Group="Apress Columns"
+         Type="Boolean"
+         Name="IsActive"
+         DisplayName="Is Active"
+         ShowInDisplayForm="TRUE"
+         ShowInNewForm="TRUE"
+         ShowInEditForm="TRUE" />
+</Elements>

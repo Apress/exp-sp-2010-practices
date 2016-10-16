@@ -1,0 +1,39 @@
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\Bin\Debug\ApplicationIcon.png
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\Bin\Debug\Background.png
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\Bin\Debug\Apress.SharePoint.WP7.Personal.dll
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\Bin\Debug\Apress.SharePoint.WP7.Personal.pdb
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\Bin\Debug\AppManifest.xaml
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\Bin\Debug\Apress.SharePoint.WP7.Personal.xap
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\obj\Debug\App.g.i.cs
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\obj\Debug\Views\MainPage.g.i.cs
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\obj\Debug\Views\LogIn.g.i.cs
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\obj\Debug\Apress.SharePoint.WP7.Personal.g.resources
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\obj\Debug\Apress.SharePoint.WP7.Personal.dll
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\obj\Debug\Apress.SharePoint.WP7.Personal.pdb
+C:\Projects\Aptillon Projects\WP7\ApressWP7Demo\Apress.SharePoint.WP7.Personal\obj\Debug\XapCacheFile.xml
+C:\Projects\Apress.SharePoint.WP7.Personal\Bin\Debug\ApplicationIcon.png
+C:\Projects\Apress.SharePoint.WP7.Personal\Bin\Debug\Background.png
+C:\Projects\Apress.SharePoint.WP7.Personal\Bin\Debug\Apress.SharePoint.WP7.Personal.dll
+C:\Projects\Apress.SharePoint.WP7.Personal\Bin\Debug\Apress.SharePoint.WP7.Personal.pdb
+C:\Projects\Apress.SharePoint.WP7.Personal\Bin\Debug\AppManifest.xaml
+C:\Projects\Apress.SharePoint.WP7.Personal\Bin\Debug\Apress.SharePoint.WP7.Personal.xap
+C:\Projects\Apress.SharePoint.WP7.Personal\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Projects\Apress.SharePoint.WP7.Personal\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Projects\Apress.SharePoint.WP7.Personal\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Apress.SharePoint.WP7.Personal\obj\Debug\App.g.i.cs
+C:\Projects\Apress.SharePoint.WP7.Personal\obj\Debug\Views\MainPage.g.i.cs
+C:\Projects\Apress.SharePoint.WP7.Personal\obj\Debug\Views\LogIn.g.i.cs
+C:\Projects\Apress.SharePoint.WP7.Personal\obj\Debug\Apress.SharePoint.WP7.Personal.g.resources
+C:\Projects\Apress.SharePoint.WP7.Personal\obj\Debug\Apress.SharePoint.WP7.Personal.dll
+C:\Projects\Apress.SharePoint.WP7.Personal\obj\Debug\Apress.SharePoint.WP7.Personal.pdb
+C:\Projects\Apress.SharePoint.WP7.Personal\obj\Debug\XapCacheFile.xml
+C:\Projects\Apress Before\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Apress Before\obj\Debug\App.g.i.cs
+C:\Projects\Apress Before\obj\Debug\Views\MainPage.g.i.cs
+C:\Projects\Apress Before\obj\Debug\Views\LogIn.g.i.cs
+C:\Projects\Apress Before\obj\Debug\Apress.SharePoint.WP7.Personal.g.resources
+C:\Projects\Apress Before\obj\Debug\Apress.SharePoint.WP7.Personal.dll
+C:\Projects\Apress Before\obj\Debug\Apress.SharePoint.WP7.Personal.pdb

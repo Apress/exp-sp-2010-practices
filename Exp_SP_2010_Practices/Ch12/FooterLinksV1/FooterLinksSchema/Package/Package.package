@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="25621bc8-13bc-46e4-9715-4c361724b244" solutionId="25621bc8-13bc-46e4-9715-4c361724b244" resetWebServer="false" name="FooterLinksSchema" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="9dd4f12f-705c-48d9-b7b8-ada2dd87ceff" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="efeac1d1-ccef-46a0-8251-019da65a252c" />
+  </projectItems>
+</package>

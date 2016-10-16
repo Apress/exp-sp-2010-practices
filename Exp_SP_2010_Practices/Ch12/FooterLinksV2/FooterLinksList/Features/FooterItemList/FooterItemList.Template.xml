@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/">
+  <UpgradeActions>
+    <VersionRange BeginVersion="1.0.0.0" EndVersion="1.1.0.0">
+      <CustomUpgradeAction Name="SetIsActiveColumn">
+      </CustomUpgradeAction>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

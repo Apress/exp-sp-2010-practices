@@ -1,0 +1,3 @@
+Updating feature FooterLinksSchema_FooterLinksSchema at http://intranet.theopenhighway.net/sites/apress
+Updating feature FooterLinksList_FooterItemList at http://intranet.theopenhighway.net/sites/apress
+Updating feature FooterLinksList_FooterWebPart at http://intranet.theopenhighway.net/sites/apress

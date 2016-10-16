@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="25621bc8-13bc-46e4-9715-4c361724b244" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="FooterLinksSchema.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\Apress\whatisthis.jpg" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="FooterLinksSchema_FooterLinksSchema\Feature.xml" />
+  </FeatureManifests>
+</Solution>

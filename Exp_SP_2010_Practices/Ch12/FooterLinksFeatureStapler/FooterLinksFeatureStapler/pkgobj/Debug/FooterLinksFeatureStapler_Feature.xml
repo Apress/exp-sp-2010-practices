@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Footer Links Feature Stapler" Description="This will staple the footer links features to the team site definition." Id="43c5bba7-4ca3-4615-b05e-05373696541f" ImageUrl="Apress/whatisthis.jpg" Scope="WebApplication" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="FooterLinksFeatureStapler\Elements.xml" />
+  </ElementManifests>
+</Feature>

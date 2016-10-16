@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooterLinksList", "FooterLinksList\FooterLinksList.csproj", "{7F10AEB5-2F2E-48AB-9C3B-358FA4AF00EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooterLinksSchema", "FooterLinksSchema\FooterLinksSchema.csproj", "{B4085858-DE63-47B6-AAC8-EB795F3E5D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F10AEB5-2F2E-48AB-9C3B-358FA4AF00EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F10AEB5-2F2E-48AB-9C3B-358FA4AF00EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F10AEB5-2F2E-48AB-9C3B-358FA4AF00EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7F10AEB5-2F2E-48AB-9C3B-358FA4AF00EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F10AEB5-2F2E-48AB-9C3B-358FA4AF00EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F10AEB5-2F2E-48AB-9C3B-358FA4AF00EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B4085858-DE63-47B6-AAC8-EB795F3E5D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4085858-DE63-47B6-AAC8-EB795F3E5D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4085858-DE63-47B6-AAC8-EB795F3E5D70}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B4085858-DE63-47B6-AAC8-EB795F3E5D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4085858-DE63-47B6-AAC8-EB795F3E5D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4085858-DE63-47B6-AAC8-EB795F3E5D70}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

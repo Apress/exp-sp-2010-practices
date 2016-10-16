@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="22faee78-91a0-42ea-a9ea-891aded6c139" solutionId="22faee78-91a0-42ea-a9ea-891aded6c139" resetWebServer="false" name="FooterLinksList" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="fd109845-1da9-4937-9e82-d3f65eadd66b" />
+    <featureReference itemId="1cc37d04-d5ed-468e-9aba-56d2640c5060" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="89400c11-7149-4dd7-96a0-7c94ee88b6cf" />
+    <projectItemReference itemId="d4931f7e-1b67-44f3-80a5-d7c7ebab122e" />
+  </projectItems>
+</package>

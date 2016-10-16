@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="22faee78-91a0-42ea-a9ea-891aded6c139" SharePointProductVersion="14.0">
+  <ActivationDependencies>
+    <ActivationDependency SolutionId="25621bc8-13bc-46e4-9715-4c361724b244" />
+  </ActivationDependencies>
+  <Assemblies>
+    <Assembly Location="FooterLinksList.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="FooterLinksList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=fb9b0d6fb3385040" Namespace="FooterLinksList.Footer" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\FooterLinksList\Footer\FooterUserControl.ascx" />
+    <TemplateFile Location="Images\Apress\whatisthis.jpg" />
+    <TemplateFile Location="Layouts\Apress\css\Footer.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="FooterLinksList_FooterItemList\Feature.xml" />
+    <FeatureManifest Location="FooterLinksList_FooterWebPart\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,23 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="UserProfileServiceSoap" maxBufferSize="2147483647" enableHttpCookieContainer="true"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+                <binding name="PeopleSoap" maxBufferSize="2147483647" maxReceivedMessageSize="2147483647" enableHttpCookieContainer="true">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://fbawp7/_vti_bin/userprofileservice.asmx"
+                binding="basicHttpBinding" bindingConfiguration="UserProfileServiceSoap"
+                contract="UserProfileSvc.UserProfileServiceSoap" name="UserProfileServiceSoap" />
+            <endpoint address="http://fbawp7/_vti_bin/people.asmx" binding="basicHttpBinding"
+                bindingConfiguration="PeopleSoap" contract="PeopleSvc.PeopleSoap"
+                name="PeopleSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>
